@@ -145,3 +145,14 @@ adopters:
     country:
       - CA
     description: "ROS 2 sensor fusion SDK replacing deprecated robot_localization. Fuses IMU, wheel encoders, and GPS via Unscented Kalman Filter at 100Hz. Automatic IMU bias estimation, Mahalanobis outlier rejection, adaptive noise covariance, TF validation at startup. Apache 2.0."
+    
+  - organization: "Cboost BV"
+    organization_url: "https://www.cboost.nl"
+    project: "Golfball Sorter"
+    domain:
+      - Logistics/Warehouse
+      - Manufacturing
+    date_added: "2026-04-14"
+    country:
+      - NL
+    description: "Machine Vision sorter for lakeballs with AI inference and PLC connectivity"
